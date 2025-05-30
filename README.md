@@ -13,7 +13,7 @@
     - Add Post `/blog/new`
     - Edit Post `/blog/edit/1` (where 1 is the id)
 
-3. Implement CRUD functionality for the blog. Store the data and CRUD functions inside a your Zustand store. For the article properties, you can have:
+3. Implement CRUD functionality for the blog. Store the data and CRUD functions inside a Zustand store like `post.store.ts`. For the article properties, you can have:
 
     - id `string` (uuid)
     - title `string`
