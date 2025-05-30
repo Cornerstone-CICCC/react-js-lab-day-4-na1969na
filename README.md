@@ -22,7 +22,7 @@
 
 4. Add a **Create** button to the blog listing page which redirects you to the *Add Post* route.
 5. Add an **Edit** button inside the blog detail page which redirects you to the *Edit Post* route to modify the title and content.
-6. Add a **Delete** button inside the blog detail page which just removes the article from the reducer array. You can install a toast package such as `react-hot-toast` for the deletion notification.
+6. Add a **Delete** button inside the blog detail page which just removes the article from the Zustand store array. You can install a toast package such as `react-hot-toast` for the deletion notification.
 7. Commit and push your changes once you are done.
 
 Good luck! 🎉🎉🎉
